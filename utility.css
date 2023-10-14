@@ -1,0 +1,22 @@
+h1{
+   animation: forwards;
+   animation-delay: 1s;
+}
+.text-center {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    align-items: center;
+
+    /* background-color: rgb(141, 115, 165); */
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
